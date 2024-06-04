@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\C#projects\Reparar\bin\Debug\net8.0\Reparar.exe
+C:\Users\Usuario\source\repos\C#projects\Reparar\bin\Debug\net8.0\Reparar.deps.json
+C:\Users\Usuario\source\repos\C#projects\Reparar\bin\Debug\net8.0\Reparar.runtimeconfig.json
+C:\Users\Usuario\source\repos\C#projects\Reparar\bin\Debug\net8.0\Reparar.dll
+C:\Users\Usuario\source\repos\C#projects\Reparar\bin\Debug\net8.0\Reparar.pdb
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.dll
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\refint\Reparar.dll
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.pdb
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\Reparar.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\C#projects\Reparar\obj\Debug\net8.0\ref\Reparar.dll
